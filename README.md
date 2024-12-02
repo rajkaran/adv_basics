@@ -9,3 +9,4 @@ This is an app I created while learning Flutter application development. I built
 * Type casting
 * Maps & "for" Loops in Flutter
 *  Filtering & Analyzing Lists
+*  Debugging app
